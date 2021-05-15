@@ -1,4 +1,4 @@
-#Computer Vision - Segmantic Segmentation using PSPNet
+# Computer Vision - Segmantic Segmentation using PSPNet
 
 
 This paper explains the task of computer vision which is mainly the detection of objects and segmenting the objects which we captured using the depth camera. The detailed explanation and analysis are also included in the paper.
